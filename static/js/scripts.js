@@ -59,12 +59,5 @@ window.addEventListener('DOMContentLoaded', event => {
             .catch(error => console.log(error));
     })
 
-    // Load and render Lesson Note Markdown
-    fetch('path/to/lesson-note.md')
-        .then(response => response.text())
-        .then(text => {
-            document.getElementById('lesson-note-md').innerHTML = marked(text);
-        })
-        .catch(error => console.error('Error loading Lesson Note Markdown:', error));
-
+   
 });
