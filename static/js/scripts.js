@@ -26,6 +26,13 @@ window.addEventListener('DOMContentLoaded', event => {
         });
     });
 
+    // Open Chapter 5 link in a new tab
+    document.querySelectorAll('a[href="Chp5.md"]').forEach(link => {
+        link.addEventListener('click', event => {
+            event.preventDefault();
+            window.open('Chp5.md', '_blank');
+        });
+    });
 
     // Yaml
     fetch(content_dir + config_file)

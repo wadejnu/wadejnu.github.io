@@ -1,5 +1,3 @@
-
-
 - [Chapter 5 Area and Volumes(I)](Chp5.md)
 
 - [Chapter 8 Statistics](awards.md)
