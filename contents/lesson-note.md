@@ -1,6 +1,6 @@
-- [Chapter 5 Area and Volumes(I)](Chp5.pdf)
+- [Chapter 5 Area and Volumes(I)](https://github.com/wadejnu/wadejnu.github.io/blob/main/contents/Chp5.md)
 
-- [Chapter 8 Statistics](awards.md)
+- [Chapter 8 Statistics](https://github.com/wadejnu/wadejnu.github.io/blob/main/contents/Chp5.pdf)
 
 - Chapter 9 Percentages(I)
 - Chapter 10 Introduction to the Coordinates
