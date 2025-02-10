@@ -184,10 +184,26 @@
                 <a id="github-link" href="https://github.com/senli1073">Github</a>
                 <span class="mx-1">&middot;</span>
                 <a id="license-link" href="https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE">License</a>
+                <div id="visitor-counter" class="mt-2">Visitors: <span id="visitor-count">0</span></div>
             </div>
         </div>
     </footer>
 
+    <script>
+        // Fetch the visitor count from a server or increment locally
+        function updateVisitorCount() {
+            // Example: Fetching from a server (replace with actual server endpoint)
+            fetch('https://api.countapi.xyz/hit/your-namespace/your-key')
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('visitor-count').innerText = data.value;
+                })
+                .catch(error => console.log(error));
+        }
+
+        // Call the function to update the visitor count
+        updateVisitorCount();
+    </script>
 </body>
 
 </html>

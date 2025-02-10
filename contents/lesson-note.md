@@ -36,9 +36,10 @@
 
 - Chapter 14 Rate, Ratio and Proportion
 
-  **参考教材**
 
-Secondary Mathematics in Focus 1A and 360 Consolidation Exercises 1A
+**参考教材**
 
-Secondary Mathematics in Focus 1B and and 360 Consolidation Exercises 1B
+- Secondary Mathematics in Focus 1A and 360 Consolidation Exercises 1A
+
+- Secondary Mathematics in Focus 1B and and 360 Consolidation Exercises 1B
 
