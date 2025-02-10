@@ -20,20 +20,13 @@
 
 ##### 主要内容：
 
+- Chapter 3 Identities （Review）
 - [Chapter 5 Area and Volumes(I)](https://github.com/wadejnu/wadejnu.github.io/blob/main/contents/Chp5.md)
-
-- [Chapter 8 Statistics](https://github.com/wadejnu/wadejnu.github.io/blob/main/contents/Chp5.pdf)
-
 - Chapter 9 Percentages(I)
-
 - Chapter 10 Introduction to the Coordinates
-
 - Chapter 11 Angles related to Straight Line and Triangles
-
 - Chapter 12 Congruent Triangles
-
 - Chapter 13 Numberical Estimation
-
 - Chapter 14 Rate, Ratio and Proportion
 
 
@@ -43,3 +36,16 @@
 
 - Secondary Mathematics in Focus 1B and and 360 Consolidation Exercises 1B
 
+**推荐的课外读物**
+
+- 《怎样解题》-\[美\] G·波利亚](https://book.douban.com/author/4570134/), 著名数学家和数学教育家，历任布朗大学和斯坦福大学的教授，美国科学院院士
+- 《陶哲轩教你学数学》[[澳\] 陶哲轩](https://book.douban.com/author/4610695)，当代最为顶尖的数学家之一，12岁获得国际数学奥林匹克竞赛金牌（这项纪录至今无人打破），2006年获得数学界的诺贝尔奖——菲尔兹奖
+- 《代数》[[乌克兰] 伊斯雷尔·盖尔范德 / [俄罗斯] 亚历山大·肖恩](https://book.douban.com/search/%E4%BC%8A%E6%96%AF%E9%9B%B7%E5%B0%94%C2%B7%E7%9B%96%E5%B0%94%E8%8C%83%E5%BE%B7)
+- 《数学女孩》[[日\]结城浩](https://book.douban.com/search/结城浩)，日本人写的数学小说。
+
+**成绩评价**
+
+- 每次的FASA，都需要参加，评分标准参考分IB MYP Criterion A、B、C、D，SA的成绩会出现在最后的成绩单上，不可或缺，若缺一次，则最后的等级无法评价，显示结果为NA。
+- 期中考试预计在学期的第10周，期末考试预计在第20周
+- 每章都有Chapter Test，希望能够重视。
+- 
