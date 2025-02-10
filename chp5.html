@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter 5 Area and Volumes(I)</title>
+    <link rel="stylesheet" href="static/css/styles.css">
+    <script src="static/js/marked.min.js"></script>
+    <script src="static/js/js-yaml.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']]
+            },
+            svg: {
+                fontCache: 'global'
+            }
+        };
+    </script>
+</head>
+
+<body>
+    <div id="content"></div>
+    <script>
+        fetch('contents/Chp5.md')
+            .then(response => response.text())
+            .then(markdown => {
+                const html = marked.parse(markdown);
+                document.getElementById('content').innerHTML = html;
+                MathJax.typeset();
+            })
+            .catch(error => console.log(error));
+    </script>
+</body>
+
+</html>
