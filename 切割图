@@ -1,0 +1,74 @@
+\documentclass[tikz,border=5mm]{standalone}
+\usepackage{tikz-3dplot}
+\begin{document}
+
+% 横向切割示意图
+\begin{tikzpicture}[scale=1.2]
+    \tdplotsetmaincoords{70}{110} % 设置视角
+
+    % 定义正三角形底面
+    \coordinate (A) at (0,0,0);
+    \coordinate (B) at (5,0,0);
+    \coordinate (C) at (2.5,4.33,0);
+
+    % 定义顶面
+    \coordinate (D) at (0,0,10);
+    \coordinate (E) at (5,0,10);
+    \coordinate (F) at (2.5,4.33,10);
+
+    % 绘制底面
+    \draw[thick] (A) -- (B) -- (C) -- cycle;
+
+    % 绘制侧面
+    \draw[thick] (A) -- (D);
+    \draw[thick] (B) -- (E);
+    \draw[thick] (C) -- (F);
+
+    % 绘制顶面
+    \draw[thick] (D) -- (E) -- (F) -- cycle;
+
+    % 横向切割面（水平切割）
+    \filldraw[red!30,opacity=0.5] (0,0,5) -- (5,0,5) -- (2.5,4.33,5) -- cycle;
+    \draw[dashed,red,thick] (0,0,5) -- (5,0,5) -- (2.5,4.33,5) -- cycle;
+
+    % 标注
+    \node at (2.5,2,5.5) {横向切割面};
+\end{tikzpicture}
+
+% 竖向切割示意图
+\begin{tikzpicture}[scale=1.2]
+    \tdplotsetmaincoords{70}{110} % 设置视角
+
+    % 定义正三角形底面
+    \coordinate (A) at (0,0,0);
+    \coordinate (B) at (5,0,0);
+    \coordinate (C) at (2.5,4.33,0);
+
+    % 定义顶面
+    \coordinate (D) at (0,0,10);
+    \coordinate (E) at (5,0,10);
+    \coordinate (F) at (2.5,4.33,10);
+
+    % 绘制底面
+    \draw[thick] (A) -- (B) -- (C) -- cycle;
+
+    % 绘制侧面
+    \draw[thick] (A) -- (D);
+    \draw[thick] (B) -- (E);
+    \draw[thick] (C) -- (F);
+
+    % 绘制顶面
+    \draw[thick] (D) -- (E) -- (F) -- cycle;
+
+    % 竖向切割面（垂直切割）
+    \filldraw[blue!30,opacity=0.5] (2.5,0,0) -- (2.5,0,10) -- (2.5,4.33,10) -- (2.5,4.33,0) -- cycle;
+    \draw[dashed,blue,thick] (2.5,0,0) -- (2.5,0,10);
+    \draw[dashed,blue,thick] (2.5,0,10) -- (2.5,4.33,10);
+    \draw[dashed,blue,thick] (2.5,4.33,10) -- (2.5,4.33,0);
+    \draw[dashed,blue,thick] (2.5,4.33,0) -- (2.5,0,0);
+
+    % 标注
+    \node at (2.5,2,5) {竖向切割面};
+\end{tikzpicture}
+
+\end{document}

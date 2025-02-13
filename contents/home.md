@@ -2,11 +2,11 @@
 
 一枚平凡的数学教书匠。
 
-Email：3216353998@qq.com
+Email：weishengshijnu@foxmail.com
 
 **任教课程**
 
-2024-2025 第二学期：1B，AMC 8
+2024-2025 第二学期：G7 A&S，G8 AMC 
 
 2024-2025 第一学期：1A，2A，AMC 8
 
