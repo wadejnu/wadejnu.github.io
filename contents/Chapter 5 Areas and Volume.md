@@ -8,7 +8,7 @@
 
 ##### 情景导入：
 
-根据地图，近似计算学校面积。（需要用到Chapter 14 Rate, Ratio and Proportion 中的比例概念）
+根据地图，近似计算学校面积(用格仔纸）。（需要用到Chapter 14 Rate, Ratio and Proportion 中的比例概念）
 
 
 
@@ -42,7 +42,9 @@ Q1：已经学过计算triangle, rectangle, parallelogram, trapezium，如何计
 
 #### 5.2  Prisms
 
-https://www.geogebra.org/m/ekvderxb
+利用计算机探究cross section ：https://www.geogebra.org/m/ekvderxb
+
+在blanket Paper与Oblique grid paper 画prisms。
 
 
 

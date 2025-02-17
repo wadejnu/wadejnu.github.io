@@ -48,19 +48,21 @@ Q4:	$4(x-1)^2+a\equiv 4x^2+bx+3$
 
 **Perfect Squares and Difference of Two  Squares 完全平方与平方差** 
 
-- Perfect Square: 
+Perfect Square: 
 
-  $(a+b)^2=a^2+2ab+b^2$
+$(a+b)^2=a^2+2ab+b^2$
 
-  $(a-b)^2=a^2-2ab+b^2$
+$(a-b)^2=a^2-2ab+b^2$
 
-  
+通过expand the brackets, 证明这是一个identity。
 
-- Difference of Two Squares
+Difference of Two Squares
 
-  $(a+b)(a-b)=a^2-b^2$
+$(a+b)(a-b)=a^2-b^2$
 
-  
+提问：If let $a=x,b=1$, 利用三个Identity展开之后的结果是什么？
+
+Let $a=2x,b=3y$呢？
 
 ​	Q5: $(x+1)^2=$
 
@@ -81,6 +83,8 @@ Q4:	$4(x-1)^2+a\equiv 4x^2+bx+3$
 ​	$(-4m+5)(4m+5)$
 
 Exercise:
+
+Determin whether the following is an identity.
 
 $3(x-3)^2+(x+2)^2=2(x-3)(2 x-1)+7$
 

@@ -6,7 +6,7 @@ Email：weishengshijnu@foxmail.com
 
 **任教课程**
 
-2024-2025 第二学期：G7 A&S，G8 AMC 
+2024-2025 第二学期：G7 A&S，G8 AMC 10
 
 2024-2025 第一学期：1A，2A，AMC 8
 
