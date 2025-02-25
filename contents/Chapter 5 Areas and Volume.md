@@ -107,15 +107,25 @@ n 维空间呢？
 
 重点在于识别base是哪个。**两个平行的，一模一样的多边形。**
 
-<img src="/Users/wade/Library/Application Support/typora-user-images/image-20250221111252490.png" alt="image-20250221111252490" style="zoom:25%;" />
+• Triangular Prism: Bases are triangles.
 
-<img src="/Users/wade/Library/Application Support/typora-user-images/image-20250221111344479.png" alt="image-20250221111344479" style="zoom:25%;" /
+• Rectangular Prism: Bases are rectangles.
 
+• Hexagonal Prism: Bases are hexagons.
 
+L2-L3 p27，example 5.10
 
-![image-20250221111148376](https://p.ipic.vip/ho6nkt.png)
+HW：P32，Q24，Q25
 
-![image-20250221112516234](https://p.ipic.vip/jn95pk.png)
+### 5.4 Total surface area
 
+Geogebra 演示：
 
+(15min)翻转，展开triangular prism ：https://www.geogebra.org/m/vmbavq6e
+
+（可以复习base）
+
+Total area of  all Lateral faces = $周界\times height$
+
+Total surface area = 2 $\times$base area+total area of all the lateral faces
 
