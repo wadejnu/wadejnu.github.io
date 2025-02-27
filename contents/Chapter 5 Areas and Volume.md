@@ -129,3 +129,53 @@ Total area of  all Lateral faces = $周界\times height$
 
 Total surface area = 2 $\times$base area+total area of all the lateral faces
 
+作业问题：
+
+- 侧面积容易算错
+
+- 单位忘记写
+
+- 无法分清哪个是base
+
+- 无法分清base 的高和prism 的高
+
+  
+
+总结求解步骤
+
+- 在图中画出base和height
+- 先计算base area
+- 再计算侧面积=底周界$\times $height(旧方法容易出错)
+- total surface area = 2$\times$ base area+ total area of all the lateral faces
+
+
+
+周末作业：对比体积与表面积差异（写到数学簿上）
+
+1. 有哪些方法计算多边形polygon的面积？
+
+2. 什么是prism 的底base和高height？
+
+3. 三角柱triangular prism 中，底的高和prism的高是一样吗？
+
+4. 如何计算prism的体积（base 是三角形、长方形、梯形以及其他多边形的体积）？
+
+5. 如何计算侧面积total area of the all lateral faces？
+
+6. 如何计算总的表面积Total surface area？
+
+7. 对比下计算体积和表面积的计算公式？列出他们计算公式对比。
+
+8. 如何判断prism的底和高？举出例子说明
+
+9. 计算体积和表面积的格式answer statement是怎样的？
+
+10. 底是三角形的prism 有多少个面，底是四边形和五边形的呢？底是n多变形的呢？
+
+11. chp test 36分以下抄写书本第五章出现的中英双语单词，每个5遍。
+
+    
+
+Volume = 
+
+Total surface area =
