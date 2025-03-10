@@ -127,6 +127,8 @@ Geogebra 演示：
 
 Total area of  all Lateral faces = $周界\times height$
 
+***(反思：先练习这个公式，不然学生会用老办法)***
+
 Total surface area = 2 $\times$base area+total area of all the lateral faces
 
 作业问题：
@@ -176,6 +178,3 @@ Total surface area = 2 $\times$base area+total area of all the lateral faces
 
     
 
-Volume = 
-
-Total surface area =
