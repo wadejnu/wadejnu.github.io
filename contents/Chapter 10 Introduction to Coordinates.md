@@ -37,7 +37,7 @@ X-axis 与Y-axis 上的点的coordinate
 
 #### 10.2 Distance between points on a Rectangular Coordinate Plane（1h）
 
-先从数轴引入两点间的距离。
+**导入**：先从数轴引入两点间的距离。
 
 从一维到二维平面距离。
 
@@ -52,6 +52,8 @@ X-axis 与Y-axis 上的点的coordinate
 大减小。（上减下，右减左）
 
 例题引入：先从RCP建立直观，再从具体两个坐标，再到抽象的坐标(a,b)(a,d)
+
+两个注意的点
 
 X-axis 上的点y =0
 
@@ -69,20 +71,66 @@ Y-axis 上的点 x=0
 
 
 
-#### 10.3 Area of Polygons on a Rectangular Coordinate System 
+#### 10.3 Area of Polygons on a Rectangular Coordinate System （2h）
 
-引入：用格仔本画一个自己喜欢的图形，任意的图形都可以（三角形、长方形、正方形、圆形、椭圆，学校平面图，自己理想的小别墅图都可以）
+导入：用格仔本画一个自己喜欢的图形，任意的图形都可以（三角形、长方形、正方形、圆形、椭圆，学校平面图，自己理想的小别墅图都可以）
+
+
+
+例题讲解：依次从简单的长方形、三角形、梯形到较为复杂的多变形（使用Method of dissecting or fitting）
+
+Lesson 1: 简单的多边形面积计算：三角形，长方形，梯形
+
+Lesson 2 ：复杂的多边形面积计算：method of dissecting and fitting
 
 如何计算这些面积？
 
 1. 标出所有已知点的坐标
-
 2. 用横线或竖线找长度
-
 3. 根据横线y 相同，竖线x相同，标出未知点的坐标
 4. 根据距离公式计算长度。
 
 
 
+### 10.4 Transformation Of Points on a Rectangular Coordinate Plane（2h）
 
+Lesson1:
+
+导入：geogebra 动画演示translation 对坐标变化的影响
+
+https://www.geogebra.org/classic/abka6qbm
+
+right：+
+
+Left：-
+
+up:+
+
+Left:-
+
+口诀：上加下减，右加左减
+
+重点：画出轨迹图。
+
+
+
+Lesson 2:
+
+导入：1.在格仔本上建立直角坐标系，take a point P，write down the coordinate of P
+
+		2. 撕下纸张，沿着x对折，对P戳洞得到对应P1坐标
+		2. 依次沿着Y对折，写下P2坐标
+		2. 对角线对折，写下P3的坐标
+
+Q1: 沿着x-axis 对折，（a,b）哪个发生了变化？
+
+Q2:沿着y-axis 对折，（a,b）哪个发生了变化？
+
+Q3:沿着对角线对折，（a,b）哪个发生了变化？
+
+口诀：x-轴反射，x不变，y 相反
+
+​	y-轴反射，y 不变，x相反。
+
+难点：沿着一条直线反射，求Image 的坐标。
 
