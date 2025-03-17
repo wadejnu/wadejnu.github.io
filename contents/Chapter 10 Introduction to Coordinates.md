@@ -94,6 +94,18 @@ Lesson 2 ：复杂的多边形面积计算：method of dissecting and fitting
 
 ### 10.4 Transformation Of Points on a Rectangular Coordinate Plane（2h）
 
+
+
+欣赏艺术作品中的对称美：
+
+艺术品中有哪些体现对称美，通过平移、旋转、翻折来实现美？
+
+https://www.vcg.com/creative-image/748741
+
+https://www.163.com/dy/article/H34ORS2Q05329086.html
+
+【《图形旋转—旋转欣赏】https://www.bilibili.com/video/BV1gT411P77b?vd_source=f661743c55e321b2f30e73a03f1d2d2f
+
 Lesson1:
 
 导入：geogebra 动画演示translation 对坐标变化的影响
@@ -112,9 +124,11 @@ Left:-
 
 重点：画出轨迹图。
 
+p(3,-6)translate 4 units to the left then 3 units upwards to p'(      ,      )
+
+反过来，p translate 4 units to the left then 3 units upwards to p'(    -1  ,   -3   )
 
 
-Lesson 2:
 
 导入：1.在格仔本上建立直角坐标系，take a point P，write down the coordinate of P
 
