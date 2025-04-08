@@ -1,5 +1,7 @@
 ### 12.2 Conditions for Triangles to be congruent
 
+#### Lesson 1:
+
 #### SAS
 
 1. 先明确概念SAS，并举出反例。quick check 12.2A
@@ -19,3 +21,16 @@
 3. 例题讲解
 
    强调顶点对顶点，写reason，按照ASA写
+
+####  Lesson 2
+
+1.复习+level 2 题目 12.7
+
+2.棍子摆放三角形（SSS）
+
+3.问题：AAA全等吗？举出反例
+
+4.例题+练习
+
+5.总结
+
